@@ -121,8 +121,8 @@ body {
     color: var(--dark-blue);
     font-size: 1.125rem;
     font-weight: 800rem;
-    line-height: 1.5rem;x 
-    margin-block: 0.6rem;   
+    line-height: 1.5rem; 
+    margin-block: 0.6rem;  
 }
 
 .terceira-secao p {
@@ -130,5 +130,3 @@ body {
     line-height: 1.625rem;
     color: var(--gunmetal);
 }
-
-teste
